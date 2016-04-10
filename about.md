@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: O mně
 permalink: /about/
 ---
 
-Some information about you!
+Jsem mladý, krásný a silný jinoch.
 
-### More Information
+### Více informací
 
-A place to include any other types of information that you'd like to include about yourself.
+Více informací neposkytuji.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Nekontaktujte mě
+fillinger.fill@seznam.cz
