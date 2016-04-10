@@ -2,8 +2,9 @@
 layout: post
 title: Informační etika
 ---
-Informační etika mi přijde velice zajímavé téma a byví mě o ní diskutovat.
+Informační etika mi přijde velice zajímavé téma a baví mě o ní diskutovat.
 
 ## Stránky o Informační etice
-[WikiSofia](https://wikisofia.cz/index.php/Informační_etika)
-[WikiKnihovna](http://wiki.knihovna.cz/index.php/Informační_etika)
+
+* [WikiSofia](https://wikisofia.cz/index.php/Informační_etika)
+* [WikiKnihovna](http://wiki.knihovna.cz/index.php/Informační_etika)
